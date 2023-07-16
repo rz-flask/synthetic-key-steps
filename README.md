@@ -1,5 +1,6 @@
 # synthetic-key-steps
-Code repository for "Computer-Aided Key Step Generation in Alkaloid Total Synthesis".
+Personal copy of https://github.com/cernaklab/synthetic-key-steps
+Code for: Y. Lin, R. Zhang, D. Wang, T. Cernak. Computer-aided key step generation in alkaloid total synthesis. Science, 2023.
 
 Contains notebooks for generation and plotting of graph edit distances, bond type evaluation, visualization of all connectivity matrices, and plots of other molecular fingerprint-based similarity metrics. 
 
